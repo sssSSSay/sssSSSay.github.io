@@ -5,7 +5,7 @@ description: >
   In me the tiger sniffs the rose.       
 baseurl: "" 
 url: "http://LLLinea.github.io"
-github_username:  Linea
+github_username:  LLLinea
 
 # Build settings
 markdown: kramdown
