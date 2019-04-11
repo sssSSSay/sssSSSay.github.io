@@ -1,11 +1,11 @@
 # Site settings
-title: sssSSSay
+title: Linea
 email: your-email@domain.com
 description: > 
   In me the tiger sniffs the rose.       
 baseurl: "" 
-url: "http://sssSSSay.github.io"
-github_username:  sssSSSay
+url: "http://LLLinea.github.io"
+github_username:  Linea
 
 # Build settings
 markdown: kramdown
