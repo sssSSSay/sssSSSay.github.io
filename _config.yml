@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: > 
   In me the tiger sniffs the rose.       
 baseurl: "" 
-url: "http://LLLinea.github.io"
+url: "http://lllinea.github.io"
 github_username:  LLLinea
 
 # Build settings
