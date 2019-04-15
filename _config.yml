@@ -8,4 +8,4 @@ url: "http://lllinea.github.io"
 github_username:  LLLinea
 
 # Build settings
-markdown: kramdown
+markdown: smackdown
