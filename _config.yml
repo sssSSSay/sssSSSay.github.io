@@ -1,10 +1,10 @@
 # Site settings
-title: Linea
+title: yasyi
 email: your-email@domain.com
 description: > 
   Old people often say that love is companionship     
 baseurl: "" 
-url: "http://lllinea.github.io"
+url: "http://yasyi.github.io"
 github_username:  LLLinea
 
 # Build settings
