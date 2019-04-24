@@ -4,8 +4,8 @@ email: your-email@domain.com
 description: > 
   Old people often say that love is companionship     
 baseurl: "" 
-url: "http://Yasyi.io"
-github_username:  Yasyi
+url: "http://yasyi.io"
+github_username:  LLLinea
 
 # Build settings
 markdown: kramdown
