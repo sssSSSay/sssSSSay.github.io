@@ -4,7 +4,7 @@ title: About
 ---
 ## About me
 
-### **ID:Asy**
+### **ID:Oxygen**
 
 **关于这个名字的由来**
 
@@ -16,7 +16,7 @@ title: About
 **沙茶属性Max**   
 **现役OI选手**
 **一个菜的的不行的DJ**
-の<font color = "#EE0000">咸鱼 Asy</font>   
+の<font color = "#EE0000">咸鱼 Oxygen</font>   
 企鹅号：459342406
 ~\(≧▽≦)/~   
 
