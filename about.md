@@ -3,9 +3,8 @@ layout: page
 title: About
 ---
 ## About me
-**Name:wy**
 
-**ID:Yasyi**
+### **ID:Asy**
 
 **关于这个名字的由来**
 
@@ -16,14 +15,15 @@ title: About
 **蒟蒻属性Max**   
 **沙茶属性Max**   
 **现役OI选手**
-の<font color = "#EE0000">咸鱼 Yasyi</font>   
+**一个菜的的不行的DJ**
+の<font color = "#EE0000">咸鱼 Asy</font>   
 企鹅号：459342406
 ~\(≧▽≦)/~   
 
 {% highlight cpp %}#include <stdio.h>
 using namespace std;
 int main() {
-  while(true) puts("Welcome to Yasyi's blog.");
+  while(true) puts("Welcome to Asy's blog.");
   return 0;
 }
 {% endhighlight %}
