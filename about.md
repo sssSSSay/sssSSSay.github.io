@@ -8,15 +8,13 @@ title: About
 
 **关于这个名字的由来**
 
-**话说安欣一直这么叫我**
-
 目前在zzsy学习
 
 **蒟蒻属性Max**   
 **沙茶属性Max**  
 **现役OI选手**
 **一个菜的的不行的DJ**
-の<font color = "#EE0000">咸鱼 Oxygen</font>   
+の<font color = "#EE0000">咸鱼 Ao</font>   
 企鹅号：459342406
 ~\(≧▽≦)/~   
 
